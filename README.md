@@ -1,2 +1,2 @@
 # alias
-script generates fake personal information
+generates fake personal information
