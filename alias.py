@@ -1,10 +1,7 @@
 import sys
 import pandas
 import random
-from colorama import init
-init(strip=not sys.stdout.isatty()) # strip colors if stdout is redirected
-from termcolor import colored,  cprint 
-from pyfiglet import figlet_format                           
+from termcolor import colored,  cprint                          
 import inquirer
 
 print(colored("""\
